@@ -44,6 +44,7 @@ codes = {
     "GLSAN": {"max_uses": 2, "used_by": set()},
     "FRIDRAM": {"max_uses": 3, "used_by": set()},
     "MIRIG": {"max_uses": 5, "used_by": set()},
+    "TEST": {"max_uses": 2, "used_by": set()},
 }
 
 # --- Логирование ---
