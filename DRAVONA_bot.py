@@ -37,6 +37,13 @@ codes = {
     "fix5": {"max_uses": 0, "used_by": set()},
     "fix6": {"max_uses": 0, "used_by": set()},
     "fix7": {"max_uses": 0, "used_by": set()},
+    "DRMNAPP": {"max_uses": 1, "used_by": set()},
+    "DRRESTAR": {"max_uses": 1, "used_by": set()},
+    "DRHTML": {"max_uses": 1, "used_by": set()},
+    "FROYOU": {"max_uses": 2, "used_by": set()},
+    "GLSAN": {"max_uses": 2, "used_by": set()},
+    "FRIDRAM": {"max_uses": 3, "used_by": set()},
+    "MIRIG": {"max_uses": 5, "used_by": set()},
 }
 
 # --- Логирование ---
