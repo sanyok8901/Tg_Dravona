@@ -29,7 +29,7 @@ WAIT_SUPPORT_USERNAME = 1
 
 # --- Коды ---
 codes = {
-    "TESTCODE": {"max_uses": 1, "used_by": set()},
+    "/fix": {"max_uses": 0, "used_by": set()},
 }
 
 # --- Логирование ---
