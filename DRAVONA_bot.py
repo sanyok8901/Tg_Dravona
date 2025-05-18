@@ -30,6 +30,13 @@ WAIT_SUPPORT_USERNAME = 1
 # --- Коды ---
 codes = {
     "fix": {"max_uses": 0, "used_by": set()},
+    "fix1": {"max_uses": 0, "used_by": set()},
+    "fix2": {"max_uses": 0, "used_by": set()},
+    "fix3": {"max_uses": 0, "used_by": set()},
+    "fix4": {"max_uses": 0, "used_by": set()},
+    "fix5": {"max_uses": 0, "used_by": set()},
+    "fix6": {"max_uses": 0, "used_by": set()},
+    "fix7": {"max_uses": 0, "used_by": set()},
 }
 
 # --- Логирование ---
