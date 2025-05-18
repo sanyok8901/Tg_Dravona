@@ -21,7 +21,7 @@ from telegram.ext import (
 )
 
 # --- Настройки ---
-TOKEN = "7528920511:AAE2ITtGYan0CmK7ySkNBYukEgMh92vEMjQ"
+TOKEN = "7528920511:AAE24_C0VclbZNqd-omTEbqLK1maGmBmBQQ"
 ADMINS = [1763797493, 6695638905]
 CHANNEL_USERNAME = "@dravonstar"  # Юзернейм канала для проверки
 
