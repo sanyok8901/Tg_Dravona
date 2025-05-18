@@ -29,7 +29,7 @@ WAIT_SUPPORT_USERNAME = 1
 
 # --- Коды ---
 codes = {
-    "HihihI": {"max_uses": 1, "used_by": set()},
+    "TESTCODE": {"max_uses": 1, "used_by": set()},
 }
 
 # --- Логирование ---
