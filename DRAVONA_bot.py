@@ -33,13 +33,16 @@ codes = {
     "fix5": {"max_uses": 0, "used_by": set()},
     "fix6": {"max_uses": 0, "used_by": set()},
     "fix7": {"max_uses": 0, "used_by": set()},
-    "DRMNAPP": {"max_uses": 1, "used_by": set()},
-    "DRRESTAR": {"max_uses": 1, "used_by": set()},
-    "FROYOU": {"max_uses": 2, "used_by": set()},
-    "GLSAN": {"max_uses": 2, "used_by": set()},
-    "FRIDRAM": {"max_uses": 3, "used_by": set()},
-    "MIRIG": {"max_uses": 5, "used_by": set()},
-    "TEST": {"max_uses": 2, "used_by": set()},
+    "Barisaa": {"max_uses": 1, "used_by": set()},
+    "Hirig": {"max_uses": 1, "used_by": set()},
+    "Starsi": {"max_uses": 1, "used_by": set()},
+    "Koha": {"max_uses": 1, "used_by": set()},
+    "Bdek": {"max_uses": 2, "used_by": set()},
+    "Sky": {"max_uses": 2, "used_by": set()},
+    "Sold": {"max_uses": 3, "used_by": set()},
+    "Ked": {"max_uses": 3, "used_by": set()},
+    "Apw": {"max_uses": 5, "used_by": set()},
+
 }
 
 logging.basicConfig(
@@ -230,4 +233,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
