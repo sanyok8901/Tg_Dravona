@@ -33,15 +33,18 @@ codes = {
     "fix5": {"max_uses": 0, "used_by": set()},
     "fix6": {"max_uses": 0, "used_by": set()},
     "fix7": {"max_uses": 0, "used_by": set()},
-    "Barisaa": {"max_uses": 1, "used_by": set()},
-    "Hirig": {"max_uses": 1, "used_by": set()},
-    "Starsi": {"max_uses": 1, "used_by": set()},
-    "Koha": {"max_uses": 1, "used_by": set()},
     "Bdek": {"max_uses": 2, "used_by": set()},
     "Sky": {"max_uses": 2, "used_by": set()},
     "Sold": {"max_uses": 3, "used_by": set()},
     "Ked": {"max_uses": 3, "used_by": set()},
     "Apw": {"max_uses": 5, "used_by": set()},
+    "Okey": {"max_uses": 1, "used_by": set()},
+    "Sisisi": {"max_uses": 1, "used_by": set()},
+    "Barah": {"max_uses": 1, "used_by": set()},
+    "Kizr": {"max_uses": 1, "used_by": set()},
+    "Arka": {"max_uses": 1, "used_by": set()},
+    "Dramo": {"max_uses": 1, "used_by": set()},
+    "Ccel": {"max_uses": 1, "used_by": set()},
 
 }
 
