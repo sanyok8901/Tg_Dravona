@@ -38,7 +38,6 @@ codes = {
     "Sold": {"max_uses": 3, "used_by": set()},
     "Ked": {"max_uses": 3, "used_by": set()},
     "Apw": {"max_uses": 5, "used_by": set()},
-    "Okey": {"max_uses": 1, "used_by": set()},
     "Sisisi": {"max_uses": 1, "used_by": set()},
     "Barah": {"max_uses": 1, "used_by": set()},
     "Kizr": {"max_uses": 1, "used_by": set()},
