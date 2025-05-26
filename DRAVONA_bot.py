@@ -74,6 +74,7 @@ codes = {
     "DRVN-CD90EF12": {"max_uses": 1, "used_by": set()},
     "DRVN-GH34IJ56": {"max_uses": 1, "used_by": set()},
     "DRVN-KL78MN90": {"max_uses": 1, "used_by": set()},
+    "Love_HILEL": {"max_uses": 1, "used_by": set()},
 
 }
 
